@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/catstagram/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/catstagram/static/js/main.6065d7b9.chunk.js",
+    "main.js.map": "/catstagram/static/js/main.6065d7b9.chunk.js.map",
+    "runtime-main.js": "/catstagram/static/js/runtime-main.9f06f185.js",
+    "runtime-main.js.map": "/catstagram/static/js/runtime-main.9f06f185.js.map",
+    "static/js/2.f7841f43.chunk.js": "/catstagram/static/js/2.f7841f43.chunk.js",
+    "static/js/2.f7841f43.chunk.js.map": "/catstagram/static/js/2.f7841f43.chunk.js.map",
+    "static/js/3.1a3ad9aa.chunk.js": "/catstagram/static/js/3.1a3ad9aa.chunk.js",
+    "static/js/3.1a3ad9aa.chunk.js.map": "/catstagram/static/js/3.1a3ad9aa.chunk.js.map",
+    "index.html": "/catstagram/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/catstagram/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f7841f43.chunk.js.LICENSE.txt": "/catstagram/static/js/2.f7841f43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f06f185.js",
+    "static/js/2.f7841f43.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.6065d7b9.chunk.js"
+  ]
+}
