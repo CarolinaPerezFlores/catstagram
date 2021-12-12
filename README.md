@@ -7,8 +7,8 @@ Libraries used:
 - Tailwind css
 - PrimeReact
 
-Demo:
-
+DEMO:
+https://carolinaperezflores.github.io/catstagram/
 
 Instructions to run the app locally
 
