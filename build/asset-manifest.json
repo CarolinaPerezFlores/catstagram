@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/catstagram/static/css/main.558f97db.chunk.css",
+    "main.js": "/catstagram/static/js/main.3e8f10cf.chunk.js",
+    "main.js.map": "/catstagram/static/js/main.3e8f10cf.chunk.js.map",
+    "runtime-main.js": "/catstagram/static/js/runtime-main.1ad03057.js",
+    "runtime-main.js.map": "/catstagram/static/js/runtime-main.1ad03057.js.map",
+    "static/css/2.ed2a72f4.chunk.css": "/catstagram/static/css/2.ed2a72f4.chunk.css",
+    "static/js/2.14cefe66.chunk.js": "/catstagram/static/js/2.14cefe66.chunk.js",
+    "static/js/2.14cefe66.chunk.js.map": "/catstagram/static/js/2.14cefe66.chunk.js.map",
+    "static/js/3.6c51c1b0.chunk.js": "/catstagram/static/js/3.6c51c1b0.chunk.js",
+    "static/js/3.6c51c1b0.chunk.js.map": "/catstagram/static/js/3.6c51c1b0.chunk.js.map",
+    "index.html": "/catstagram/index.html",
+    "static/css/2.ed2a72f4.chunk.css.map": "/catstagram/static/css/2.ed2a72f4.chunk.css.map",
+    "static/css/main.558f97db.chunk.css.map": "/catstagram/static/css/main.558f97db.chunk.css.map",
+    "static/js/2.14cefe66.chunk.js.LICENSE.txt": "/catstagram/static/js/2.14cefe66.chunk.js.LICENSE.txt",
+    "static/media/theme.css": "/catstagram/static/media/Inter-SemiBold.cca62d21.woff",
+    "static/media/catstagram.9b70ac5b.png": "/catstagram/static/media/catstagram.9b70ac5b.png",
+    "static/media/primeicons.css": "/catstagram/static/media/primeicons.c6e20533.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ad03057.js",
+    "static/css/2.ed2a72f4.chunk.css",
+    "static/js/2.14cefe66.chunk.js",
+    "static/css/main.558f97db.chunk.css",
+    "static/js/main.3e8f10cf.chunk.js"
+  ]
+}
