@@ -112,7 +112,7 @@ function MainPage() {
   let imageClick = (image) => {
     let name = (image.breeds.length !== 0) ? (image.breeds[0].name) : '';
     let url = (image.url) ? image.url : '';
-    let desccription = (image.breeds.length !== 0) ? image.breeds[0].description : '';
+    let desccription = (image.breeds.length !== 0) ? image.breeds[0].description : 'No information available at the moment, we are working on it :)';
     setSelectedCat({
       name: name,
       url: url,
